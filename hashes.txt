@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ojos de tormenta
+
+This log tracks the cryptographic history and versioning for the song **Ojos de tormenta** (ojos-de-tormenta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:16:46.696853 | `v1` | `ba32649f0a59e32d94c5f073a735a3383fb407d0ba25c0ea5de0bb56c61a660a` | `7b093b0c805fc9823db62f7f3ce308e38228242f60721a2e7daea7c5383388d4` | `2026-06-16_ojos-de-tormenta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
