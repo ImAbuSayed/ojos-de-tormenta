@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ojos-de-tormenta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ojos de tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-tormenta/) |
+| **Get License** | [Obtain a Music License for Ojos de tormenta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-tormenta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos de tormenta me tienen perdiendo el norte
+> Late night vibes, en Madrid somos el corte
+> Un juego de miradas, baby, sin pasaporte
+> You know I want it, deja que el deseo te transporte
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
